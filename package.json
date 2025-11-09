@@ -4,7 +4,7 @@
   "description": "Webhook test for Meta Cloud API.",
   "main": "app.js",
   "scripts": {
-    "start": "node src/app.js" <--- Mude APENAS esta linha!
+    "start": "node src/app.js"
   },
   "dependencies": {
     "express": "^4.19.2"
